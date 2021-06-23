@@ -19,7 +19,7 @@ FullStack Web Developer
 
 Right after I graduated from highschool, I knew I wanted to study programming. As soon as I started I fell in love with Web Development. Although it is sometimes challenging, I study everyday to become the best developer I can be. 
 
-Currently I am finishing <a href="https://www.soyhenry.com">Henry's</a> bootcamp while also learning TypeScript.
+Currently finishing <a href="https://www.soyhenry.com">Henry's</a> bootcamp while also learning TypeScript.
 
 I am a team driven, logical, organized and focused person, when I have an idea or a project in mind, I do not stop until I finish it. I like challenges and learning from my mistakes, and a big part of that is getting advice and critics from others as sometimes selfcriticism does not show you the bigger picture.
 
