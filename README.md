@@ -25,6 +25,6 @@ I am a team driven, logical, organized and focused person, when I have an idea o
 
 My native language is Spanish, but I also have bilingual proficiency in English as well as limited working proficiency in French. I exceed the most in Frontend development but I have Fullstack knowledge.
 
-You can contcat me by <a href="mailto:lucacasasola82@gmail.com">email</a> or through my <a href="https://www.linkedin.com/in/LucaCasasola">LinkedIn</a>
+You can contact me by <a href="mailto:lucacasasola82@gmail.com">email</a> or through my <a href="https://www.linkedin.com/in/LucaCasasola">LinkedIn</a>
 
 
