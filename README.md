@@ -40,16 +40,15 @@ I speak Spanish, English and French
 
 <h1 align="center"> My Projects </h1>
   
-  <h2>Henry Food </h2>
+  <h2> Henry Food </h2>
   <h5>  JavaScript • React • Redux • CSS(Styled Components) • PostreSQL • Sequelize • Express • NodeJs</h5>
 
 
 ![HenryFood](https://user-images.githubusercontent.com/82492849/127183359-826aeb90-aa16-45a4-a5b3-210fc03ad856.png)
 
-<h2> Get News! </h2>
+<h2><a href=https://github.com/lucae4238/GetNews> Get News!</a> </h2>
 
 <h5>TypeScript • React • Redux • Material UI </h5>
 
+![getNews](https://user-images.githubusercontent.com/82492849/127408101-d7d76f86-6b51-422e-8fe1-162b00c7fd59.png)
 
-
-![207-2073499_translate-platform-from-english-to-spanish-work-in png](https://user-images.githubusercontent.com/82492849/127185098-6f474c36-dac0-4b7c-acbd-03c5016ef82b.jpeg)
