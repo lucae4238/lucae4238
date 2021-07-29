@@ -46,7 +46,7 @@ I speak Spanish, English and French
 
 ![HenryFood](https://user-images.githubusercontent.com/82492849/127183359-826aeb90-aa16-45a4-a5b3-210fc03ad856.png)
 
-<h2><a href=https://github.com/lucae4238/GetNews> Get News!</a> </h2>
+<h2><a href=https://github.com/lucae4238/GetNews> Get News! (WIP)</a> </h2>
 
 <h5>TypeScript • React • Redux • Material UI </h5>
 
