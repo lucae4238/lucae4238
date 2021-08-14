@@ -1,6 +1,9 @@
-![Banner-career](https://user-images.githubusercontent.com/82492849/127179616-ad3f0660-e08c-4078-bc29-d71451b72b26.jpg)
 
-<h1 align="center">Hi! I'm Luca(He/Him)</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82492849/129452454-a415d9fb-7018-4112-bf44-838af86c8759.gif" alt="banner" />
+</p>
+
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Luca(He/Him)</h1>
 <h3>FullStack Web Developer</h3>
 
 
@@ -38,17 +41,21 @@ I speak Spanish, English and French
 </div>
 
 
-<h1 align="center"> My Projects </h1>
+<h1> My Projects </h1>
   
-  <h2> Henry Food </h2>
-  <h5>  JavaScript • React • Redux • CSS(Styled Components) • PostreSQL • Sequelize • Express • NodeJs</h5>
+  <h2 align="center"><a href="https://github.com/lucae4238/PI-Food-FT14a"> Henry Food </a></h2>
+  <h5 align="center"> React.js • Redux • CSS • Styled Components • PostreSQL • Sequelize • Express • NodeJs</h5>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82492849/129451954-f32aeb37-6334-4aea-9632-e080ceca886b.gif" alt="project preview" />
+</p>
 
 
-![HenryFood](https://user-images.githubusercontent.com/82492849/127183359-826aeb90-aa16-45a4-a5b3-210fc03ad856.png)
 
-<h2><a href=https://github.com/lucae4238/GetNews> Get News! (WIP)</a> </h2>
+<h2 align="center"><a href=https://github.com/lucae4238/GetNews> Get News! (WIP)</a> </h2>
 
-<h5>TypeScript • React • Redux • Material UI </h5>
-
-![getNews](https://user-images.githubusercontent.com/82492849/127408101-d7d76f86-6b51-422e-8fe1-162b00c7fd59.png)
+<h5 align="center">React.ts • Redux • Material UI </h5>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82492849/127408101-d7d76f86-6b51-422e-8fe1-162b00c7fd59.png" alt="project preview" />
+</p>
 
