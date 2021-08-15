@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82492849/129452454-a415d9fb-7018-4112-bf44-838af86c8759.gif" alt="banner" />
+  <img height=300px src="https://user-images.githubusercontent.com/82492849/129452454-a415d9fb-7018-4112-bf44-838af86c8759.gif" alt="banner" />
 </p>
 
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Luca(He/Him)</h1>
@@ -56,6 +56,7 @@ I speak Spanish, English and French
 
 <h5 align="center">React.ts • Redux • Material UI </h5>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82492849/127408101-d7d76f86-6b51-422e-8fe1-162b00c7fd59.png" alt="project preview" />
+  <img src="https://user-images.githubusercontent.com/82492849/129489940-4166aab1-e6c2-47f7-b385-9b43892442fc.gif" alt="project preview" />
 </p>
+
 
