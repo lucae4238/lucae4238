@@ -47,7 +47,7 @@ I speak Spanish, English and French
   <h5 align="center"> React.js • Redux • CSS • Styled Components • PostreSQL • Sequelize • Express • NodeJs</h5>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82492849/129451954-f32aeb37-6334-4aea-9632-e080ceca886b.gif" alt="project preview" />
+  <img src="https://user-images.githubusercontent.com/82492849/129451749-c66aaf77-c1ec-4e24-9f7c-78ccc89a8807.gif" alt="project preview" />
 </p>
 
 
