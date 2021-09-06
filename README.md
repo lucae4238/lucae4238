@@ -41,7 +41,7 @@ I speak Spanish, English and French
 </div>
 
 
-<h1> My Projects </h1>
+<h1> My Projects (portfolio <a href="https://lucae.vercel.app/">here</a>) </h1>
   
   <h2 align="center"><a href="https://github.com/lucae4238/PI-Food-FT14a"> Henry Food </a></h2>
   <h5 align="center"> React.js • Redux • CSS • Styled Components • PostreSQL • Sequelize • Express • NodeJs</h5>
