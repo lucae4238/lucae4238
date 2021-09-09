@@ -10,8 +10,6 @@
 <div>
 <p>
 Right after I entered college I attended a programming class and as soon as I started I fell in love with Web Development.I like challenges and learning something new everyday. I exceed the most in Frontend Development
-
-Currently finishing <a href="https://www.soyhenry.com">Henry's</a> bootcamp while also learning TypeScript.
   
 I speak Spanish, English and French
 
@@ -41,7 +39,7 @@ I speak Spanish, English and French
 </div>
 
 
-<h1> My Projects (portfolio <a href="https://lucae.vercel.app/">here</a>) </h1>
+<h1> My Personal Projects (portfolio <a href="https://lucae.vercel.app/">here</a>) </h1>
   
   <h2 align="center"><a href="https://github.com/lucae4238/PI-Food-FT14a"> Henry Food </a></h2>
   <h5 align="center"> React.js • Redux • CSS • Styled Components • PostreSQL • Sequelize • Express • NodeJs</h5>
