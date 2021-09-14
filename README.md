@@ -50,7 +50,7 @@ I speak Spanish, English and French
 
 
 
-<h2 align="center"><a href=https://github.com/lucae4238/GetNews> Get News! (WIP)</a> </h2>
+<h2 align="center"><a href=https://github.com/lucae4238/GetNews> Get News!</a> </h2>
 
 <h5 align="center">React.ts • Redux • Material UI </h5>
 <p align="center">
