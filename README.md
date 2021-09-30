@@ -58,3 +58,11 @@ I speak Spanish, English and French
 </p>
 
 
+<h2 align="center">Discord Bot</h2>
+
+<h5 align="center">Node • Javascript </h5>
+<p align="center">
+  <video  width="240"src="https://user-images.githubusercontent.com/82492849/135482402-b992fa34-a7c9-4d72-86a7-c611bad3afa1.mp4" />
+</p>
+
+
