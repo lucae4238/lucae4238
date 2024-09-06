@@ -15,8 +15,6 @@ Dedicated Semi Senior Front-End Developer with over three years of expertise spe
  
   <h3> Let‘s get in touch! </h3>
 <p>You can contact me by <a href="mailto:lucacasasola82@gmail.com">email</a> or through my <a href="https://www.linkedin.com/in/luca-casasola">LinkedIn</a></p>
-  
-  
 </div>
 
 
